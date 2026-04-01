@@ -45,18 +45,21 @@ The project follows a "best-of-both-worlds" approach to balance speed and accura
 -----
 
 ## 📂 Project Structure
-
 ```text
 .
+├── .gitignore                  # Prevents bulky files (.venv, __pycache__) from being tracked
+├── requirements.txt            # Production dependencies
 ├── app/
 │   └── streamlit_app.py        # Main Streamlit logic & UI
 ├── models/
+│   ├── emotion_analysis_models/ # Legacy or intermediate emotion models
 │   └── sentiment_analysis_models/ # Serialized .pkl models & vectorizers
 ├── src/
+│   ├── fix_models.py           # Utility scripts
 │   ├── train_models.py         # Model training scripts
 │   └── preprocessing.py        # Data cleaning & tokenization
-├── requirements.txt            # Environment dependencies
-└── README.md                   # Project documentation
+├── results/                    # Output logs, confusion matrices, and metrics
+└── README_images/              # (Recommended) Place for images used in this README
 ```
 
 -----

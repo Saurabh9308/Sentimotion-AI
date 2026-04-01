@@ -1,0 +1,11 @@
+Model: linear_svm
+Accuracy: 0.8027
+
+              precision    recall  f1-score   support
+
+           0       0.80      0.80      0.80      9942
+           1       0.80      0.81      0.80     10058
+
+    accuracy                           0.80     20000
+   macro avg       0.80      0.80      0.80     20000
+weighted avg       0.80      0.80      0.80     20000

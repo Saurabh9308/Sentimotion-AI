@@ -1,0 +1,18 @@
+# Web Framework
+streamlit
+
+# Data Processing
+pandas
+numpy
+
+# Machine Learning (Classical)
+scikit-learn
+joblib
+
+# Deep Learning (For the Emotion Pipeline)
+transformers
+torch
+
+# Visualization
+matplotlib
+seaborn

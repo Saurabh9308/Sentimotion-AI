@@ -1,5 +1,3 @@
-Since you’ve built a hybrid system (Classical ML + Deep Learning), your README needs to highlight that **architectural sophistication**. This is what will impress recruiters and other developers.
-
 # 🧠 Sentimotion-AI: Hybrid NLP Analysis Pipeline
 
 **Sentimotion-AI** is a sophisticated Natural Language Processing (NLP) application that provides a dual-layered analysis of text. By combining **Classical Machine Learning** for efficient sentiment detection and **Deep Learning Transformers** for emotional nuance, it offers a comprehensive 360-degree view of human expression.

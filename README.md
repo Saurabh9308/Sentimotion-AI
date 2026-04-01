@@ -86,4 +86,4 @@ The project follows a "best-of-both-worlds" approach to balance speed and accura
 
 **Saurabh**
 *Full-Stack Developer | ML Enthusiast*
-[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_PROFILE) | [GitHub](https://www.google.com/search?q=https://github.com/Saurabh9308)
+[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/saurabh-kadtan-558811293) | [GitHub](https://www.google.com/search?q=https://github.com/Saurabh9308)
